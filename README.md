@@ -14,5 +14,6 @@ A simple calculator built using HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
-## 🚀 Live Demo
-[Click here to view the live site](https://Dipika1111-hub.github.io/calculator-js/)
+## Live Demo  
+[Click here to try the calculator](https://dipika1111-hub.github.io/Calculator-js/)
+
